@@ -53,6 +53,7 @@
 [mult.asm](https://github.com/jerry92916/_co/blob/master/04/mult/mult.asm)  
 [Fill.asm](https://github.com/jerry92916/_co/blob/master/04/fill/Fill.asm)  
 ## 第五章習題(第九周、第十周)
+第五章程式碼有做出來，程式碼參考nand2tetris教材  
 [CPU](https://github.com/jerry92916/_co/blob/master/05/CPU.hdl)  
 [Ｍemory](https://github.com/jerry92916/_co/blob/master/05/Memory.hdl)  
 [Computer](https://github.com/jerry92916/_co/blob/master/05/Computer.hdl)  
