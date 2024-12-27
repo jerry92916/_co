@@ -11,7 +11,7 @@
 
 # 期中作業
 ## 第一章習題(第一周、第二周)
-第一章都有做出來，程式碼參考nand2tetris教材，電路圖全部自己畫的  
+第一章程式碼跟電路圖都有做出來，程式碼參考nand2tetris教材，電路圖全部自己畫的  
 [Not](https://github.com/jerry92916/_co/blob/master/01/Not.hdl)  
 [And](https://github.com/jerry92916/_co/blob/master/01/And.hdl)    
 [Or](https://github.com/jerry92916/_co/blob/master/01/Or.hdl)    
@@ -30,6 +30,7 @@
 [電路圖1](https://github.com/jerry92916/_co/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A01.jpg)  
 [電路圖2](https://github.com/jerry92916/_co/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A02.jpg)  
 ## 第二章習題(第三周、第四周)
+第二章程式碼有做出來，程式碼參考nand2tetris教材，電路圖自己畫了HalfAdder、FullAdder、ALU的部分
 [HalfAdder](https://github.com/jerry92916/_co/blob/master/02/HalfAdder.hdl)  
 [FullAdder](https://github.com/jerry92916/_co/blob/master/02/FullAdder.hdl)  
 [Add16](https://github.com/jerry92916/_co/blob/master/02/Add16.hdl)  
