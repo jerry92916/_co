@@ -56,4 +56,5 @@
 [證明過程](https://github.com/jerry92916/_co/blob/master/%E8%BF%AA%E6%91%A9%E6%A0%B9.jpg)  
 ## ALU 習題：zx=0,nx=0,zy=1,ny=1,f=1,no=0 為何輸出 x-1，請證明  
 [證明過程](https://github.com/jerry92916/_co/blob/master/ALU.jpg)  
-
+# 期末作業  
+[MMU報告PPT](https://github.com/jerry92916/_co/blob/master/%E4%B8%BB%E8%A8%98%E6%86%B6%E9%AB%94%E7%AE%A1%E7%90%86%E5%96%AE%E5%85%83%20MMU.pptx)  
