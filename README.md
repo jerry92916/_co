@@ -29,7 +29,12 @@
 [電路圖1](https://github.com/jerry92916/_co/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A01.jpg)  
 [電路圖2](https://github.com/jerry92916/_co/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A02.jpg)  
 ## 第二章習題(第三周、第四周)
-
+[HalfAdder](https://github.com/jerry92916/_co/blob/master/02/HalfAdder.hdl)  
+[FullAdder](https://github.com/jerry92916/_co/blob/master/02/FullAdder.hdl)  
+[Add16](https://github.com/jerry92916/_co/blob/master/02/Add16.hdl)  
+[Inc16](https://github.com/jerry92916/_co/blob/master/02/Inc16.hdl)  
+[ALU](https://github.com/jerry92916/_co/blob/master/02/ALU.hdl)  
+[電路圖](https://github.com/jerry92916/_co/blob/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0.jpg)  
 ## 第三章習題(第五周、第六周)
 
 ## 第四章習題(第七周、第八周)
