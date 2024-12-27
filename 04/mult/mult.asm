@@ -1,35 +1,42 @@
-// This file is part of www.nand2tetris.org
-// and the book "The Elements of Computing Systems"
-// by Nisan and Schocken, MIT Press.
-// File name: projects/04/Mult.asm
+// Mult.asm: 將 R0 和 R1 的乘積存入 R2。
+// (R0, R1, R2 分別對應於 RAM[0], RAM[1], 和 RAM[2])
 
-// Multiplies R0 and R1 and stores the result in R2.
-// (R0, R1, R2 refer to RAM[0], RAM[1], and RAM[2], respectively.)
-
+// 初始化計數器 `i`（用作迴圈變數）為 0
 @i
-  M=0
-  @R2
-  M=0
+M=0
 
+// 初始化結果 `R2`（用來存放乘積）為 0
+@R2
+M=0
+
+// 開始進入乘法迴圈
 (LOOP)
+  // 將 `i` 的值載入到 D 暫存器
   @i
   D=M
+  // 用 `i` 減去 `R1` 的值（D = i - R1）
   @R1
   D=D-M
+  // 如果 i >= R1（D >= 0），跳轉到 END（結束迴圈）
   @END
   D;JGE
 
+  // 將 `R0` 的值加到 `R2`（R2 = R2 + R0）
   @R0
   D=M
   @R2
   M=D+M
 
+  // 將 `i` 加 1（i = i + 1）
   @i
   M=M+1
 
+  // 跳轉回迴圈的開頭
   @LOOP
   0;JMP
 
+// 程式的結尾
 (END)
+  // 無限迴圈，讓程式停止執行
   @END
   0;JMP
