@@ -53,9 +53,11 @@
 [CPU](https://github.com/jerry92916/_co/blob/master/05/CPU.hdl)  
 [Ｍemory](https://github.com/jerry92916/_co/blob/master/05/Memory.hdl)  
 [Computer](https://github.com/jerry92916/_co/blob/master/05/Computer.hdl)  
-## 證明迪摩根定律第二式  
+## 證明迪摩根定律第二式 
+都是自己寫的  
 [證明過程](https://github.com/jerry92916/_co/blob/master/%E8%BF%AA%E6%91%A9%E6%A0%B9.jpg)  
 ## ALU 習題：zx=0,nx=0,zy=1,ny=1,f=1,no=0 為何輸出 x-1，請證明  
+都是自己寫的  
 [證明過程](https://github.com/jerry92916/_co/blob/master/ALU.jpg)  
 # 期末作業
 參考資料打在PPT的最後一頁，利用CHATGPT查詢報告可以準備的方向，內容我整理完並打在PTT內，有把參考資料中的圖片中貼到PPT當中  
