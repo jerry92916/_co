@@ -36,7 +36,15 @@
 [ALU](https://github.com/jerry92916/_co/blob/master/02/ALU.hdl)  
 [電路圖](https://github.com/jerry92916/_co/blob/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0.jpg)  
 ## 第三章習題(第五周、第六周)
-
+[Bit](https://github.com/jerry92916/_co/blob/master/03/a/Bit.hdl)  
+[Register](https://github.com/jerry92916/_co/blob/master/03/a/Register.hdl)  
+[RAM8](https://github.com/jerry92916/_co/blob/master/03/a/RAM8.hdl)  
+[RAM64](https://github.com/jerry92916/_co/blob/master/03/a/RAM64.hdl)  
+[RAM512](https://github.com/jerry92916/_co/blob/master/03/b/RAM512.hdl)  
+[RAM4K](https://github.com/jerry92916/_co/blob/master/03/b/RAM4K.hdl)  
+[RAM16K](https://github.com/jerry92916/_co/blob/master/03/b/RAM16K.hdl)  
+[PC](https://github.com/jerry92916/_co/blob/master/03/a/PC.hdl)  
+[電路圖](https://github.com/jerry92916/_co/blob/master/%E7%AC%AC%E4%B8%89%E7%AB%A0.jpg)  
 ## 第四章習題(第七周、第八周)
 
 ## 第五章習題(第九周、第十周)
