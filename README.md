@@ -38,6 +38,7 @@
 [ALU](https://github.com/jerry92916/_co/blob/master/02/ALU.hdl)  
 [電路圖](https://github.com/jerry92916/_co/blob/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0.jpg)  
 ## 第三章習題(第五周、第六周)
+第三章程式碼有做出來，程式碼參考nand2tetris教材，電路圖畫了Bit和Register的部分  
 [Bit](https://github.com/jerry92916/_co/blob/master/03/a/Bit.hdl)  
 [Register](https://github.com/jerry92916/_co/blob/master/03/a/Register.hdl)  
 [RAM8](https://github.com/jerry92916/_co/blob/master/03/a/RAM8.hdl)  
