@@ -11,7 +11,7 @@
 
 # 期中作業
 ## 第一章習題(第一周、第二周)
-第一章程式碼跟電路圖都有做出來，程式碼參考nand2tetris教材，電路圖全部自己畫的  
+第一章程式碼跟電路圖都有做出來，程式碼和電路圖全部自己做出來的  
 [Not](https://github.com/jerry92916/_co/blob/master/01/Not.hdl)  
 [And](https://github.com/jerry92916/_co/blob/master/01/And.hdl)    
 [Or](https://github.com/jerry92916/_co/blob/master/01/Or.hdl)    
