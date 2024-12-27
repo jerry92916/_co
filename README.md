@@ -49,6 +49,7 @@
 [PC](https://github.com/jerry92916/_co/blob/master/03/a/PC.hdl)  
 [電路圖](https://github.com/jerry92916/_co/blob/master/%E7%AC%AC%E4%B8%89%E7%AB%A0.jpg)  
 ## 第四章習題(第七周、第八周)
+看了解答，並將程式碼貼到CHATGPT上了解程式碼的意義  
 [mult.asm](https://github.com/jerry92916/_co/blob/master/04/mult/mult.asm)  
 [Fill.asm](https://github.com/jerry92916/_co/blob/master/04/fill/Fill.asm)  
 ## 第五章習題(第九周、第十周)
